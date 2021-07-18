@@ -1,6 +1,6 @@
 # card_ui
 
-ATM CARD UI DESIGN
+ATM CARD UI DESIGN..
 
 Implemented Chiziaruhoma Ogbonda's UI design.
 
