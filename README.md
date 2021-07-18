@@ -6,4 +6,4 @@ Implemented Chiziaruhoma Ogbonda's UI design.
 
 Looks boring, will redesign later.
 
-![Screenshot](screenshot.png)
+![Screenshot](./screenshot.png)
